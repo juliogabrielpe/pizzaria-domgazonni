@@ -748,7 +748,7 @@ del { color: var(--gray); font-size: .85rem; }
 .bar-item {
   display: flex;
   align-items: center;
-  gap .75rem;
+  gap: .75rem;
   gap: .75rem;
   margin-bottom: .4rem;
   font-family: var(--font-ui);
